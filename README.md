@@ -1,12 +1,12 @@
 ### Hello there! eu sou a Madu Viana! ツ
 
-- 💻 Atualmente estou fazendo um estádio de Infraestrutura de T.I, porém estou em busca de algo mais voltado ao desenvolvimento de software.
+- 💻 Atualmente estou fazendo um estágio de Infraestrutura de T.I, porém estou em busca de algo mais voltado ao desenvolvimento de software.
 - 👾 Gosto muito de programar em Java, mas estudo também Javascript, Python, C#, HTML e CSS. 
 - 🎓 Graduanda de Engenharia de Software
 - ☄️ "Que a força esteja com você!"
 
 ### Hello there! I'm Madu Viana! ツ
-- 💻 I'm currently working on an IT infrastructure stadium, but I'm seeking something more focused on software development.
+- 💻 Currently, I'm interning in IT infrastructure, but I'm actively seeking opportunities more focused on software development.
 - 👾 Passionate about Java, currently learning JavaScript, C#, HTML, and CSS.
 - 🎓 Software Engineering student
 - ☄️ "May the force be with you!"
