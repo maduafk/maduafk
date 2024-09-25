@@ -3,12 +3,14 @@
 - 💻 Atualmente estou fazendo um estágio de Desenvolvimento de Software com foco em Java!
 - 👾 Gosto muito de programar em Java, mas estudo também Javascript, Python, C#, HTML e CSS. 
 - 🎓 Graduanda de Engenharia de Software
+- 🔍 Curiosidade: Após realizar um estágio em infraestrutura de TI, me interessei bastante pela área e pretendo explorar mais sobre DevOps no futuro.
 - ☄️ "Que a força esteja com você!"
 
 ### Hello there! I'm Madu! ツ
 - 💻 I am currently doing an internship in Software Development with a focus on Java!
 - 👾 Passionate about Java, currently learning JavaScript, C#, HTML, and CSS.
 - 🎓 Software Engineering student
+- 🔍 Curiosity: After completing an internship in IT infrastructure, I became very interested in the field and plan to explore more about DevOps in the future.
 - ☄️ "May the force be with you!"
 
 <div style="display: inline_block"><br>
