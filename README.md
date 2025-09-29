@@ -2,7 +2,7 @@
 
 - 💻 Atualmente estou fazendo um estágio de Desenvolvimento de Software com foco em Java!
 - 👾 Gosto muito de programar em Java, mas estudo também Javascript, Python, C#, HTML e CSS. 
-- 🎓 Graduanda de Engenharia de Software
+- 🎓 Estudante de Engenharia de Software
 - 🔍 Curiosidade: Após realizar um estágio em infraestrutura de TI, me interessei bastante pela área e pretendo explorar mais sobre DevOps no futuro.
 - ☄️ "Que a força esteja com você!"
 
