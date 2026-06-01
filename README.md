@@ -4,6 +4,8 @@
 
 *Apaixonada por Desenvolvimento, Inteligência Artificial e Cibersegurança.*
 
+🌐 **Portfólio:** [www.maduviana.com.br](https://www.maduviana.com.br)
+
 ---
 
 ### 🇧🇷 Sobre Mim
@@ -48,7 +50,7 @@
 
 ---
 
-### 🐍
+### 🐍 The Snake Game
 
 <div align="center">
   <picture>
