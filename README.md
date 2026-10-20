@@ -2,8 +2,6 @@
 
 **Estudante do último ano de Engenharia de Software**
 
-*Apaixonada por Desenvolvimento, Inteligência Artificial e Cibersegurança.*
-
 🌐 **Portfólio:** [www.maduviana.com.br](https://www.maduviana.com.br)
 
 ---
