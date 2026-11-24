@@ -1,49 +1,62 @@
 # Olá! Eu sou a Madu! ツ
 
-**Estudante do último ano de Engenharia de Software**
+**Desenvolvedora Full Stack | Engenheira de Software**
 
-🌐 **Portfólio:** [www.maduviana.com.br](https://www.maduviana.com.br)
+🌐 **Portfólio Interativo (Windows XP):** [maduviana.com.br](https://www.maduviana.com.br)
 
 ---
 
 ### 🇧🇷 Sobre Mim
-- 🎓 **Senior Year:** Atualmente cursando o último ano de **Engenharia de Software**.
-- 💻 **Experiência Dev:** 2 anos de estágio focados em **Java (Spring Boot)** e **Angular**, com vivência em bancos de dados relacionais.
-- ⚙️ **Base de Infra:** 6 meses de experiência prévia em infraestrutura de TI, o que me deu uma visão 360º de tech.
-- 📚 **Acadêmico:** Projetos práticos desenvolvidos com **Node.js** e **React**, além de estudos acadêmicos voltados para **Visão Computacional**.
-- 🚀 **Busca Contínua:** Me aprofundando em **IA**, **Cybersecurity** e cultura **DevOps**.
+- 💻 **Experiência em Produção:** 2 anos de atuação na **Avalara** e **OOBJ** desenvolvendo e sustentando sistemas fiscais de alta volumetria.
+- ⚙️ **Backend & Arquitetura:** Experiência prática com **Java (8 e 17)**, **Spring Boot**, APIs REST, microsserviços e mensageria assíncrona com **Apache Kafka** e **RabbitMQ**.
+- 🎨 **Frontend & Mobile:** Atuação profissional com **Angular** e projetos autorais desenvolvidos com **React**, **TypeScript**, **Node.js** e **Kotlin (Jetpack Compose)**.
+- 🗄️ **Dados & Infraestrutura:** Otimização de consultas SQL em **PostgreSQL** e **Oracle**, containerização com **Docker** e base prévia de 6 meses em infraestrutura de TI, redes e segurança.
+- 🎓 **Formação:** Engenharia de Software (conclusão em dez/2026), explorando **IA aplicada ao desenvolvimento**, **Sistemas Distribuídos**, **DevOps** e **Cybersecurity**.
 - ☄️ *"May the force be with you!"*
 
 ### 🇺🇸 About Me
-- 🎓 **Senior Year:** Last year of **Software Engineering** major.
-- 💻 **Dev Experience:** 2 years working as an intern with **Java (Spring Boot)** and **Angular**, including relational databases.
-- ⚙️ **Infra Foundation:** 6 months of IT Infrastructure experience, providing a broad tech perspective.
-- 📚 **Academic:** Projects built using **Node.js** and **React**, with explorations in **Computer Vision**.
-- 🚀 **Always Learning:** Currently diving deep into **AI**, **Cybersecurity**, and **DevOps**.
+- 💻 **Production Experience:** 2 years at **Avalara** and **OOBJ** building and maintaining high-throughput fiscal systems processing millions of electronic documents daily.
+- ⚙️ **Backend & Architecture:** Hands-on experience with **Java (8 & 17)**, **Spring Boot**, REST APIs, microservices, and event-driven messaging with **Apache Kafka** and **RabbitMQ**.
+- 🎨 **Frontend & Mobile:** Professional experience with **Angular**, alongside personal and academic projects built with **React**, **TypeScript**, **Node.js**, and **Kotlin (Jetpack Compose)**.
+- 🗄️ **Databases & Infrastructure:** SQL query optimization in **PostgreSQL** and **Oracle**, containerization with **Docker**, plus a 6-month foundation in IT infrastructure, networking, and security.
+- 🎓 **Education:** B.S. in Software Engineering (graduating Dec 2026), exploring **AI-assisted engineering**, **Distributed Systems**, **DevOps**, and **Cybersecurity**.
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tech Stack
 
 **Linguagens | Languages:**  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Frameworks & Bibliotecas | Frameworks & Libraries:**  
+**Backend & Mensageria | Backend & Messaging:**  
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
 
-**Ferramentas & Infraestrutura | Tools & Infra:**  
-<img src="https://img.shields.io/badge/Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+**Frontend & Mobile:**  
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
+
+**Bancos de Dados | Databases:**  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+**DevOps, Infra & Ferramentas | DevOps & Tools:**  
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 <img src="https://img.shields.io/badge/CyberSec-000000?style=for-the-badge&logo=hack-the-box&logoColor=white" />
 
 ---
